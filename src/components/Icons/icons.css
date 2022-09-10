@@ -1,0 +1,27 @@
+.icon-style{
+  display: inline-flex;
+  margin-left: 125px;
+}
+.title-desc{
+  display: inline-block;
+    width: 200px;
+  height: 20vh;
+  margin: 20px 10px;
+  border-radius: 10px 10px 0px 0px;
+  overflow: hidden;
+}
+
+.logo{
+width: 70px;
+height: 70px;  
+margin-top: 40px;
+border-radius: 50px;
+border: solid  black;
+border-width: thin;
+}
+.img{
+  width: 30px;
+  height: 30px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
